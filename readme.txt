@@ -1,1 +1,0 @@
-https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_jumbotron&stacked=h
